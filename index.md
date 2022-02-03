@@ -8,6 +8,9 @@ layout: default
 [Create Samba server](./another-page2.html). <br/>
 [GUI on Ubuntu Server](./another-page3.html). <br/>
 [Install SSL Certificate on Windows IIS 10](https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
+[Install & Configure HYPERV Server](http://woshub.com/install-configure-free-hyper-v-server/). <br/>
+[Install Distribute Fle System Server 2019](https://www.vembu.com/blog/distributed-file-system-dfs-windows-server-2016-brief-overview/) <br/>
+
 
 What happens if I chag this.
 
