@@ -46,14 +46,14 @@ description: This is just another page
 
 	get-vm -n server2019 | Select -ExpandProperty NetWorkAdapters
 
-##View info for all VM adapters**
+## View info for all VM adapters**
 	get-vm | ?{$_.State -eq "Running"} | select -ExpandProperty networkadapters | select vmname, macaddress, switchname, ipaddresses | ft -wrap -autosize						
 
 
-##Enable Enhanced Session Mode 
+## Enable Enhanced Session Mode 
 	Set-VMhost -EnableEnhancedSessionMode $True						
 
-##enable remote management from hyperv gui
+## enable remote management from hyperv gui
 	Enable-PSRemoting 									
 
 
