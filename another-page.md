@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create VM in HyperV Powershell
-description: 
+description: Powershell commands for HyperV
 ---
 
 ## Create Virtual switch
