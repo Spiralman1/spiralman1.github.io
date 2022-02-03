@@ -12,13 +12,13 @@ description: This is just another page
 	 Get-VMSwitch <br/>
 ---------------------------------------
 
-## create VM
+## Create VM
 
 	New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB <br/>
 
-##create new vhd
+## Create new vhd
  	New-VHD -Path c:\vm-Machine\Testmahcine\Testmachine.vhdx -SizeBytes 10GB -Dynamic <br/> 
-##map ISO image	
+## Map ISO image	
 	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path <br/>					
 
 				*OR*
