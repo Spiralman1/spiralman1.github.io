@@ -4,8 +4,8 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
-#create Virtual switch#
+## Create Virtual switch
+
 
 Get-NetAdapter
 New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAdapterName “Local Area Connection”
