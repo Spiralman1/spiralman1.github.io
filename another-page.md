@@ -22,7 +22,8 @@ description: This is just another page
 ## Map ISO image	
 	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path 					
 
-				## *OR*
+##                                   *OR*
+
 ## Use existing VHD
 
 	Add-VMHardDiskDrive -VMName server2019 start vm-path "C:\hyperv\vhd\VHDfile.vhd" 		
