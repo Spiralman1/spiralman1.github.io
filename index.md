@@ -5,7 +5,7 @@ layout: default
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
 [HYperV-Server Powershell create VM](./another-page.html). <br/>
-[Link to another page](./another-page2.html). <br/>
+[Create Samba server](./another-page2.html). <br/>
 [Link to another page](./another-page3.html). <br/>
 
 What happens if I chag this.
