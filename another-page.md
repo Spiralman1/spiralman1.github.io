@@ -22,7 +22,7 @@ description: This is just another page
 ## Map ISO image	
 	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path 					
 
-##                                   *OR*
+## ----------------------------------------------*OR*--------------------------------------------
 
 ## Use existing VHD
 
