@@ -6,7 +6,7 @@ layout: default
 
 [HYperV-Server Powershell create VM](./another-page.html). <br/>
 [Create Samba server](./another-page2.html). <br/>
-[Link to another page](./another-page3.html). <br/>
+[GUI on Ubuntu Server](./another-page3.html). <br/>
 
 What happens if I chag this.
 
