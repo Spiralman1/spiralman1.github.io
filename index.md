@@ -7,6 +7,7 @@ layout: default
 [HYperV-Server Powershell create VM](./another-page.html). <br/>
 [Create Samba server](./another-page2.html). <br/>
 [GUI on Ubuntu Server](./another-page3.html). <br/>
+[Install SSL Certificat on Windows IIS 10] (./https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
 
 What happens if I chag this.
 
