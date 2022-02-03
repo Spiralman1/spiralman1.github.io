@@ -26,26 +26,35 @@ description: This is just another page
 
 ## Use existing VHD
 
-	Add-VMHardDiskDrive -VMName server2019 start vm-path "C:\hyperv\vhd\VHDfile.vhd" 		
+	Add-VMHardDiskDrive -VMName server2019 start vm-path "C:\hyperv\vhd\VHDfile.vhd" 
 
-start-vm server2019
+## Start VM		
 
-get-vm *
+	start-vm server2019
 
-Get-VMNetworkAdapter -VMName Server2019
+## MISC
 
-Get-VM "server2019" | Get-VMNetworkAdapter | Connect-VMNetworkAdapter -SwitchName "extenal switch name"		# assign virtual switch
+	get-vm *
 
-get-vmswitch | select *
+	Get-VMNetworkAdapter -VMName Server2019
 
-get-vm -n server2019 | Select -ExpandProperty NetWorkAdapters
+## assign virtual switch
 
-#get-vm | ?{$_.State -eq "Running"} | select -ExpandProperty networkadapters | select vmname, macaddress, switchname, ipaddresses | ft -wrap -autosize						#View info for all VM adapters**
+	Get-VM "server2019" | Get-VMNetworkAdapter | Connect-VMNetworkAdapter -SwitchName "extenal switch name"		
+
+	get-vmswitch | select *
+
+	get-vm -n server2019 | Select -ExpandProperty NetWorkAdapters
+
+##View info for all VM adapters**
+	get-vm | ?{$_.State -eq "Running"} | select -ExpandProperty networkadapters | select vmname, macaddress, switchname, ipaddresses | ft -wrap -autosize						
 
 
-# Set-VMhost -EnableEnhancedSessionMode $True						#Enable Enhanced Session Mode 
+##Enable Enhanced Session Mode 
+	Set-VMhost -EnableEnhancedSessionMode $True						
 
-# Enable-PSRemoting 									#enable remote management from hyperv gui
+##enable remote management from hyperv gui
+	Enable-PSRemoting 									
 
 
 [back](./)
