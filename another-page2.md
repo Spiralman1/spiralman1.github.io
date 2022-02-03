@@ -4,7 +4,7 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
+## This is page 2
 
 _yay_
 
