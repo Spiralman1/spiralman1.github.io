@@ -8,18 +8,18 @@ description: This is just another page
 
 
 	 Get-NetAdapter 
-	 New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAdapterName “Local Area Connection” <br/>
-	 Get-VMSwitch <br/>
+	 New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAdapterName “Local Area Connection” 
+	 Get-VMSwitch 
 ---------------------------------------
 
 ## Create VM
 
-	New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB <br/>
+	New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB 
 
 ## Create new vhd
- 	New-VHD -Path c:\vm-Machine\Testmahcine\Testmachine.vhdx -SizeBytes 10GB -Dynamic <br/> 
+ 	New-VHD -Path c:\vm-Machine\Testmahcine\Testmachine.vhdx -SizeBytes 10GB -Dynamic 
 ## Map ISO image	
-	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path <br/>					
+	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path 					
 
 				*OR*
 
