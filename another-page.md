@@ -38,7 +38,7 @@ description: This is just another page
 
 	Get-VMNetworkAdapter -VMName Server2019
 
-## assign virtual switch
+## Assign virtual switch
 
 	Get-VM "server2019" | Get-VMNetworkAdapter | Connect-VMNetworkAdapter -SwitchName "extenal switch name"		
 
@@ -53,7 +53,7 @@ description: This is just another page
 ## Enable Enhanced Session Mode 
 	Set-VMhost -EnableEnhancedSessionMode $True						
 
-## enable remote management from hyperv gui
+## Enable remote management from hyperv gui
 	Enable-PSRemoting 									
 
 
