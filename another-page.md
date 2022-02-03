@@ -12,7 +12,7 @@ New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAda
 Get-VMSwitch
 ---------------------------------------
 
-#create VM#
+#create VM
 
 New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB
 
