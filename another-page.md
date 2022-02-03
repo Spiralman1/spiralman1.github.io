@@ -14,10 +14,12 @@ description: This is just another page
 
 ## create VM
 
-New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB
+	New-VM -Name server2019 -path C:\vm-machine -MemoryStartupBytes 8000MB <br/>
 
-# New-VHD -Path c:\vm-Machine\Testmahcine\Testmachine.vhdx -SizeBytes 10GB -Dynamic 	#create new vhd
-# Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path					#map ISO image
+##create new vhd
+ 	New-VHD -Path c:\vm-Machine\Testmahcine\Testmachine.vhdx -SizeBytes 10GB -Dynamic <br/> 
+##map ISO image	
+	Set-VMDvdDrive -server2019 -ControllerNumber 1 -Path <br/>					
 
 				*OR*
 
