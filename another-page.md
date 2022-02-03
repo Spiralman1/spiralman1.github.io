@@ -7,9 +7,9 @@ description: This is just another page
 ## Create Virtual switch
 
 
-	*Get-NetAdapter*
-New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAdapterName “Local Area Connection”
-Get-VMSwitch
+	 Get-NetAdapter* <br/>
+	 New-VMSwitch –Name “External VM Switch” –AllowManagement $True –NetAdapterName “Local Area Connection” <br/>
+	 Get-VMSwitch <br/>
 ---------------------------------------
 
 ## create VM
