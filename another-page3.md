@@ -33,7 +33,7 @@ description: Install GUI on Ubuntu Server
 	sudo tasksel install xubuntu-core
 	sudo service display_manager start
 
-##Install XFCE Desktop
+## Install XFCE Desktop
 	sudo apt-get install xfce4 slim
 	sudo service slim start
 
