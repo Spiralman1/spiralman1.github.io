@@ -3,9 +3,7 @@ layout: default
 ---
 
 #### 									Don Carrier
-##								Tay Township (Midland), Ontario
-## 								     doncarrier@gmail.com 
-## 								      (705)- 828 -1365
+								
 
 ### Profile
 Knowledgeable professional committed to high work standards with a lifelong interest in technology, seeking a secure position that will utilize my skills for further professional advancement within the technology industry.
