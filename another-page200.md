@@ -2,15 +2,20 @@
 layout: default
 ---
 
-#### 									Don Carrier
+####                                                                   Don Carrier
 								
 
-### Profile
+### 									Profile
 Knowledgeable professional committed to high work standards with a lifelong interest in technology, seeking a secure position that will utilize my skills for further professional advancement within the technology industry.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   • Computer Network Administration honours diploma (2005)
+*   • Interconnecting network devices 
+*   • Implementing Cisco wireless networks (IUWNE)				
+*   • Canadian Fire Alarm Association Trainee (2019)
+*   • Corning fiber optic splicing and termination (In house 2018)
+*   • Safety systems electronics (George Brown College)
+*   • Basic electricity (OrderLine)
+.
 
 ##### Header 5
 
