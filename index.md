@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [Create Samba server](./another-page2.html). <br/>
 [GUI on Ubuntu Server](./another-page3.html). <br/>
 
-## Windows Server
+# Windows Server
 
 [HYperV-Server Powershell create VM](./another-page.html). <br/>
 [Install SSL Certificate on Windows IIS 10](https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
