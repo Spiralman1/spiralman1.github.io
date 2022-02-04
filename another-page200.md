@@ -5,7 +5,7 @@ layout: default
                                                                  
 								
 
-### 									Profile
+##									Profile
 Knowledgeable professional committed to high work standards with a lifelong interest in technology, seeking a secure position that will utilize my skills for further professional advancement within the technology industry.
 
 *    Computer Network Administration honours diploma (2005)
