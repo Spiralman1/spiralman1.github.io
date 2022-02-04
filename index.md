@@ -4,24 +4,26 @@ layout: default
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-[HYperV-Server Powershell create VM](./another-page.html). <br/>
-[Create Samba server](./another-page2.html). <br/>
-[GUI on Ubuntu Server](./another-page3.html). <br/>
-[Install SSL Certificate on Windows IIS 10](https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
-[Install & Configure HYPERV Server](http://woshub.com/install-configure-free-hyper-v-server/). <br/>
-[Install Distribute Fle System Server 2019](https://www.vembu.com/blog/distributed-file-system-dfs-windows-server-2016-brief-overview/) <br/>
+
+
+
 
 
 What happens if I chag this.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Linux
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Create Samba server](./another-page2.html). <br/>
+[GUI on Ubuntu Server](./another-page3.html). <br/>
 
-## Header 2
+## Windows Server
 
+[HYperV-Server Powershell create VM](./another-page.html). <br/>
+[Install SSL Certificate on Windows IIS 10](https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
+[Install & Configure HYPERV Server](http://woshub.com/install-configure-free-hyper-v-server/). <br/>
+[Install Distribute Fle System Server 2019](https://www.vembu.com/blog/distributed-file-system-dfs-windows-server-2016-brief-overview/) <br/>
 
 >
 > When something is important enough, you do it even if the odds are not in your favor.
