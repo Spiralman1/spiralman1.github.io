@@ -35,6 +35,8 @@ Knowledgeable professional committed to high work standards with a lifelong inte
 *     Merit award for dedication to career success (2006)
 *     Clean driving and criminal records
 
+* * *
+
 #### Work Experience
 
 ## I.T. FIELD TECHNICIAN		
