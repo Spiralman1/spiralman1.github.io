@@ -76,7 +76,7 @@ Telecon inc						2013-2014 & 2015-2018
 ## INSTALLATION & REPAIR TECHNICIAN / TEAM LEAD	(Part-Time / Casual)			
 Mobile Technologies inc.			June 2014 to May 2021
 	
-#	MTI is a U.S. based company that services many retail establishments globally. My responsibilities were from York region to Timmins.
+MTI is a U.S. based company that services many retail establishments globally. My responsibilities were from York region to Timmins.
 
 	
 *     Install & service commercial RF distribution, head-end closet & comm rooms for retail establishments such as Best Buy / Futureshop & Target 
@@ -101,8 +101,8 @@ FASTTEKS
 STUBBS COMMUNICATIONS
 *Full time then casual (2006 to 2019)
 
-#	Stubbs Communications was a satellite multi-access, home automation & security, internet & phone provider for a number of retirement #       communities and MDUs throughout Ontario.
-#	As the only technician north of the GTA, I took care of every detail from the head-end to the customer’s equipment with no supervision. I #       then E-mailed daily production reports to head office on a weekly basis.
+Stubbs Communications was a satellite multi-access, home automation & security, internet & phone provider for a number of retirement       communities and MDUs throughout Ontario.
+As the only technician north of the GTA, I took care of every detail from the head-end to the customer’s equipment with no supervision. I        then E-mailed daily production reports to head office on a weekly basis.
 
 *     Install, service & maintain satellite & multi-access head-end systems
 *     Maintain head end computer systems and networks
