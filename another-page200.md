@@ -40,28 +40,23 @@ Knowledgeable professional committed to high work standards with a lifelong inte
 ## I.T. FIELD TECHNICIAN		
 Northern Protocol					       Dec 2019 to Present
 
-    • Performed various I.T. services for commercial clients throughout Simcoe County
-    • Active Directory management; Azure AD migrations and administration
-    • VPN setup, e-mail migrations, Windows upgrades, Office365, backup solutions, consulting & remote access solutions.
-    • Windows server deployments
-    • Quickbooks troubleshooting
-    • Personal computer service and setup for residential clients
+
+*     Performed various I.T. services for commercial clients throughout Simcoe County
+*     Active Directory management; Azure AD migrations and administration
+*     VPN setup, e-mail migrations, Windows upgrades, Office365, backup solutions, consulting & remote access solutions.
+*     Windows server deployments
+*     Quickbooks troubleshooting
+*     Personal computer service and setup for residential clients
 
 
 ## PROJECT LEAD		
 Data wiring Solutions					June 2018 to Dec 2019
 
-    • Plan, test and install integrated nurse call systems for large hospital in Barrie
-    • Pre-stage and test product before live installations to ensure functionality
-    • Install and test real time wireless tracking / badge security system 
-    • Review and edit CAD drawings and as-builts before and during installations
-    • Monitor product inventory, liason with project managers and engineers to ensure smooth rollout
-
-
-
-
-
-
+*     Plan, test and install integrated nurse call systems for large hospital in Barrie
+*     Pre-stage and test product before live installations to ensure functionality
+*     Install and test real time wireless tracking / badge security system 
+*     Review and edit CAD drawings and as-builts before and during installations
+*     Monitor product inventory, liason with project managers and engineers to ensure smooth rollout
 
 
 
@@ -69,12 +64,12 @@ Data wiring Solutions					June 2018 to Dec 2019
 Telecon inc						2013-2014 & 2015-2018	
 
 
-    • Install fibre infrastructure in MDU & commercial establishments throughout the GTA
-    • Install Fibre splice enclosures in MTRs and communications closets
-    • Dress closets and prep cabling for splicing
-    • Installed and serviced DSL / VOIP for third party ISPs
-    • Installed connectivity services for OLG and Service Canada
-    • Repair internal telecommunications networks, refer external issues (beyond demarc) to carrier company.
+*     Install fibre infrastructure in MDU & commercial establishments throughout the GTA
+*     Install Fibre splice enclosures in MTRs and communications closets
+*     Dress closets and prep cabling for splicing
+*     Installed and serviced DSL / VOIP for third party ISPs
+*     Installed connectivity services for OLG and Service Canada
+*     Repair internal telecommunications networks, refer external issues (beyond demarc) to carrier company.
 
 
 
@@ -84,39 +79,37 @@ Mobile Technologies inc.			June 2014 to May 2021
 	MTI is a U.S. based company that services many retail establishments globally. My responsibilities were from York region to Timmins.
 
 	
-    • Install & service commercial RF distribution, head-end closet & comm rooms for retail establishments such as Best Buy / Futureshop & Target etc.
-    • Install & service merchandising security equipment; large displays with technical products
-    • Replace faulty distribution, security, intercom, paging, A/V & I.T. equipment when necessary
-    • Team-lead product installs, datacom installs
-    • Install & maintain Bose & Sonos A/V equipment
-    • Perform quarterly prevntative maintenance visits to ensure audio visual, data and merchandised product security is fully functional. 
-
-
+*     Install & service commercial RF distribution, head-end closet & comm rooms for retail establishments such as Best Buy / Futureshop & Target 
+*     Install & service merchandising security equipment; large displays with technical products
+*     Replace faulty distribution, security, intercom, paging, A/V & I.T. equipment when necessary
+*     Team-lead product installs, datacom installs
+*     Install & maintain Bose & Sonos A/V equipment
+*     Perform quarterly prevntative maintenance visits to ensure audio visual, data and merchandised product security is fully functional. 
 
 
 ## I.T. NETWORK TECHNICIAN			(Part-Time)
 FASTTEKS							
 
-    • Provided on-call / on-site services to home, small & medium sized businesses
-    • Operating system & I.P. network setup 
-    • Windows server administration; general computer service
-    • Router & switch configuration
-    • Virus detection & removal, resolved various software & hardware issues
+*     Provided on-call / on-site services to home, small & medium sized businesses
+*     Operating system & I.P. network setup 
+*     Windows server administration; general computer service
+*     Router & switch configuration
+*     Virus detection & removal, resolved various software & hardware issues
 
 
 ## HEAD-END TECHNICIAN
 STUBBS COMMUNICATIONS
 *Full time then casual (2006 to 2019)
 
-	A.C.T (Alternative Cable Technologies) was a satellite multi-access, home automation & security, internet & phone provider for a number of retirement communities and MDUs throughout Ontario.
-	As the only A.C.T. technician north of the GTA, I took care of every detail from the head-end to the customer’s equipment with no supervision. I then E-mailed daily production reports to head office on a weekly basis.
+	Stubbs Communications was a satellite multi-access, home automation & security, internet & phone provider for a number of retirement communities and MDUs throughout Ontario.
+	As the only technician north of the GTA, I took care of every detail from the head-end to the customer’s equipment with no supervision. I then E-mailed daily production reports to head office on a weekly basis.
 
-    • Install, service & maintain satellite & multi-access head-end systems
-    • Maintain head end computer systems and networks
-    • Repair / replace distribution cable, connectorization, line extenders, line splitters, head end equipment (receivers, combiners, power supplies, modulators)
-    • Instruct subscribers on services over the phone, schedule and perform service calls & locates when necessary
-    • Calculate & maintain RF signal levels throughout the systems & updating site maps and CAD designs
-    • Confer with network operators and carriers regarding technical issues beyond the head end.
+*     Install, service & maintain satellite & multi-access head-end systems
+*     Maintain head end computer systems and networks
+*     Repair / replace distribution cable, connectorization, line extenders, line splitters, head end equipment (receivers, combiners, power supplies, modulators)
+*     Instruct subscribers on services over the phone, schedule and perform service calls & locates when necessary
+*     Calculate & maintain RF signal levels throughout the systems & updating site maps and CAD designs
+*     Confer with network operators and carriers regarding technical issues beyond the head end.
 
 
 
