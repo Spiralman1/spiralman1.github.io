@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Don's 
-description: RESUME
+title: Don's Resume
+description: ___________
 ---
 
                                                                  
