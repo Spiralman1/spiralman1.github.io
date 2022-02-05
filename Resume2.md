@@ -2,50 +2,11 @@
 layout: default
 ---
 
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
+#### 									Don Carrier
+								
 
-
-
-
-
-
-What happens if I chag this.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Linux
-
-[Create Samba server](./another-page2.html). <br/>
-[GUI on Ubuntu Server](./another-page3.html). <br/>
-
-# Windows Server
-
-[HYperV-Server Powershell create VM](./another-page.html). <br/>
-[Install SSL Certificate on Windows IIS 10](https://www.ssl.com/how-to/install-an-ssl-tls-certificate-in-iis-10). <br/>
-[Install & Configure HYPERV Server](http://woshub.com/install-configure-free-hyper-v-server/). <br/>
-[Install Distribute Fle System Server 2019](https://www.vembu.com/blog/distributed-file-system-dfs-windows-server-2016-brief-overview/) <br/>
-
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+### Profile
+Knowledgeable professional committed to high work standards with a lifelong interest in technology, seeking a secure position that will utilize my skills for further professional advancement within the technology industry.
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -129,5 +90,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-[Resume](./resume.html). <br/>
