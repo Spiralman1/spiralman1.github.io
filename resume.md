@@ -108,7 +108,7 @@ STUBBS COMMUNICATIONS
 Stubbs Communications was a satellite multi-access, home automation & security, internet & phone provider for a number of retirement       communities and MDUs throughout Ontario.
 As the only technician north of the GTA, I took care of every detail from the head-end to the customer’s equipment with no supervision. I        then E-mailed daily production reports to head office on a weekly basis.
 
-*     Install, service & maintain satellite & multi-access head-end systems
+*     Install, service & maintain satellite multi-access head-end systems
 *     Maintain head end computer systems and networks
 *     Repair / replace distribution cable, connectorization, line extenders, line splitters, head end equipment (receivers, combiners, power supplies, modulators)
 *     Instruct subscribers on services over the phone, schedule and perform service calls & locates when necessary
